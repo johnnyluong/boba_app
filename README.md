@@ -6,11 +6,11 @@ v1.0 Features (Current WIP):\
 -MVP\
 -Maintain list of boba drinks consumed as entries in a list\
 -Each list item contains details of drink's:\
-  -Name\
-  -Source\
-  -Price\
-  -Purchase Date\
-  -Volume\
+  * Name\
+  * Source\
+  * Price\
+  * Purchase Date\
+  * Volume\
 -List is moidifable\
     -Add, Delete, Modify list items
 
