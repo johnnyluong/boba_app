@@ -1,16 +1,27 @@
-# boba_app
+# the boba app
 
-A new Flutter project.
+A mobile application to track your boba consumption
 
-## Getting Started
+v1.0 Features (Current WIP):
+-MVP
+-Maintain list of boba drinks consumed as entries in a list
+-Each list item contains details of drink's:
+    -Name
+    -Source
+    -Price
+    -Purchase Date
+    -Volume
+-List is moidifable
+    -Add, Delete, Modify list tiems
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+v2.0 Features
+-View consumption metrics
+-Graph of volumetric consumption
+-View amount spent
+-View Ranking of sources
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+v3.0 Features
+-User Account management
+-App themes (based on drink toppings heh)
