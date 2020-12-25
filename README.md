@@ -12,7 +12,7 @@ v1.0 Features (Current WIP):
     * Purchase Date
     * Volume
 
- * List is modifiable\
+ * List is modifiable
     * Add, Delete, Modify list items
 
 
@@ -26,3 +26,9 @@ v2.0 Features
 v3.0 Features
  * User Account management
  * App themes (based on drink toppings heh)
+
+
+
+ Some Notes:
+  * Currently using SQLite as backend database as the app has no cross user functionalities
+    * May switch to cloud storage if app becomes popular and requires greater user analytics and scaling
