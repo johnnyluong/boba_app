@@ -32,3 +32,4 @@ v3.0 Features
  Some Notes:
   * Currently using SQLite as backend database as the app has no cross user functionalities
     * May switch to cloud storage if app becomes popular and requires greater user analytics and scaling
+    * In this case there will be some migration feature so data will not be lost
