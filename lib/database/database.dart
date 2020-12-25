@@ -90,6 +90,8 @@ class DBProvider {
       //pass the id as whereArg to prevent a SQL injection
       whereArgs: [id],
     );
+
+    print("drinkID: " + id.toString() + " was deleted");
   }
 
   printDrinks() async {
